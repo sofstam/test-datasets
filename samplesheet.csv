@@ -1,2 +1,2 @@
 sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta
-2614,ERR3201942,OXFORD_NANOPORE,http://raw.githubusercontent.com/sofstam/test-datasets/raw/taxprofiler/data/ERR3201942.fastq.gz,,
+2614,ERR3201942,OXFORD_NANOPORE,https://raw.githubusercontent.com/sofstam/test-datasets/nf-core-test-datasets-centrifuge/data/fastq/ERR3201942.fastq.gz,,
