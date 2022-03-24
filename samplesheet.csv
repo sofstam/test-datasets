@@ -1,2 +1,2 @@
 sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta
-2612,ERR5766180,OXFORD_NANOPORE,https://raw.githubusercontent.com/nf-core/test-datasets/taxprofiler/data/fastq/ERX5474936_ERR5766180_1.fastq.gz,,
+2612,long_reads,OXFORD_NANOPORE,https://github.com/nf-core/test-datasets/raw/mag/test_data/minigut_reads.fastq.gz,,
