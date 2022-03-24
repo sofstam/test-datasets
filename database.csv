@@ -1,2 +1,2 @@
 tool,db_name,db_params,db_path
-centrifuge,db3,"",https://github.com/sofstam/test-datasets/nf-core-test-datasets-centrifuge/raw/data/database/centrifuge/minigut_cf.tar.gz
+centrifuge,db3,"",https://raw.githubusercontent.com/sofstam/test-datasets/nf-core-test-datasets-centrifuge/data/database/centrifuge/minigut_cf.tar.gz
